@@ -1,0 +1,33 @@
+{
+  "originHash" : "f971731aa7e1ddd73bf2e1aa4f6f299cb23c63154fac4e4407fc2dfc48d5df47",
+  "pins" : [
+    {
+      "identity" : "chartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/AppPear/ChartView",
+      "state" : {
+        "revision" : "9115a992c91fa19cbb4f2241084240d38654a1fc",
+        "version" : "1.5.5"
+      }
+    },
+    {
+      "identity" : "linechartview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Jonathan-Gander/LineChartView",
+      "state" : {
+        "revision" : "91416f04a04ad3117e4fe58c35a24bb66e57ebb4",
+        "version" : "1.4.0"
+      }
+    },
+    {
+      "identity" : "neumorphic",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/costachung/neumorphic.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "03c6f7b3d27bfb28a082db2e9ffae45fbc69cb8b"
+      }
+    }
+  ],
+  "version" : 3
+}

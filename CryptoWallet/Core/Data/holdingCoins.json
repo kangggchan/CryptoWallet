@@ -1,0 +1,23 @@
+[
+    {
+        "id": "ethereum",
+        "image": "eth",
+        "holdingValue": 1.2
+    },
+    {
+        "id": "tether",
+        "image": "usdt",
+        "holdingValue": 1500
+    },
+    {
+        "id": "binancecoin",
+        "image": "bnb",
+        "holdingValue": 12.5
+    },
+    {
+        "id": "solana",
+        "image": "sol",
+        "holdingValue": 200
+    }
+    
+]
